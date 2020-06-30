@@ -1,6 +1,6 @@
 # Resume [![resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Resume.pdf)
 
-This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use for your own job-hunting needs as you see fit!
+This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use my template for your own job-hunting needs as you see fit!
 
 ## Setup
 
