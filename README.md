@@ -1,6 +1,7 @@
-# Resume [![Resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Resume.pdf) [![Cover Letter](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Cover%20Letter.pdf)
+# Resume [![Resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Resume.pdf) 
+# Cover Letter [![Cover Letter](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Cover%20Letter.pdf)
 
-This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use my template for your own job-hunting needs as you see fit!
+This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use this template for your own job-hunting needs as you see fit!
 
 ## Setup
 
@@ -16,7 +17,7 @@ Preview:
 
 | Resume | Cover Letter |
 |:---:|:---:|
-| [![Resume](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Resume.pdf)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Cover Letter](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Cover%20Letter.pdf)
+| [![Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Cover Letter](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Cover%20Letter.pdf)
 
 ## Quick Start Guide
 
