@@ -1,4 +1,4 @@
-# Resume [![resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Resume.pdf)
+# Resume [![resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Resume.pdf)
 
 This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use my template for your own job-hunting needs as you see fit!
 
@@ -14,13 +14,15 @@ Alternatively, you can upload this template or access the base template for this
 
 Preview:
 
-![Resume Image](link)
+| Resume | Cover Letter |
+|:---:|:---:|
+| [![Resume](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Resume.pdf)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Cover Letter](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Cover%20Letter.pdf)
 
 ## Quick Start Guide
 
-You can jump into this template by editing the code in ```resume.tex. ```
+You can jump into this template by editing the code in ```resume.tex.```
 Try changing the appearance of elements by commenting out style tags with ```%``` in the code within ```awesome-cv.cls```. 
-For an example, you can left-justify your name in the resume header by finding the ```\makecvheader``` section and commenting out ```\begin{center}``` and ```\end{center}``` 
+For an example, you can left-justify your name in the resume header by finding the ```\makecvheader``` section and commenting out ```\begin{center}``` and ```\end{center}```.
 
 As another example, you can easily change emphasis colours. Replace the color in the following entry near line 197 of ```awesome-cv.cls```:
 ```
