@@ -5,7 +5,7 @@ This is my resume - a heavily modified fork of [awesome-cv](https://github.com/p
 ## Setup
 
 I recommend downloading the latest distribution of TeX Live from [Tex Users Group](https://www.tug.org/texlive/). 
-Then, download this repository and run the following command from your preferred shell, such as command prompt, in that folder's directory:``` $ xelatex resume.tex $ ```
+Then, download this repository and run the following command from your preferred shell (e.g cmd.exe) in that folder's directory: ``` $ xelatex resume.tex $ ```
 
 Alternatively, you can upload this template or access the base template for this resume and edit it with Overleaf, an online LaTeX editor. If you are running into compile errors, make sure you are using the XeTeX compiler available in the Overleaf settings.
 
