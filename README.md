@@ -55,7 +55,8 @@ As another example, you can easily change emphasis colours. Replace the color in
 ```
 Try the colors predefined by Font Awesome: `awesome`, `awesome-emerald`, `awesome-skyblue`, `awesome-red`, `awesome-pink`, `awesome-orange`, `awesome-nephritis`, `awesome-concrete`, and `awesome-darknight`. Find more colors in the color config around line 100. Use your own additional colors by defining HTML color codes in ```awesome-cv.cls``` using ```\definecolor```. 
 
-Finally, do check out all the wonderful icons provided by [Font Awesome](https://fontawesome.com/) in ```fontawesome.sty``` in this repository.
+Finally, do check out all the wonderful icons immediately available for usage provided by [Font Awesome](https://fontawesome.com/) in ```fontawesome.sty``` in this repository. 
+Since the icons are predefined with names, you can simply embed them using ```\faIconName```, like ```\faHeart``` for example.
 
 ## Super Quick Start Guide ;)
 
