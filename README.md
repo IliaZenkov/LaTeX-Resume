@@ -7,9 +7,9 @@
   </a>
 </div>
 
-<div align="center">
+
 This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use this template for your own job-hunting needs as you see fit!
-</div>
+
 
 ## Setup
 
