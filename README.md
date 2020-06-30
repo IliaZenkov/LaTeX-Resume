@@ -14,7 +14,7 @@ This is my resume - a heavily modified fork of [awesome-cv](https://github.com/p
 ## Setup
 
 I recommend downloading the latest distribution of TeX Live from [Tex Users Group](https://www.tug.org/texlive/). 
-Then, download this repository and run the following command from your preferred shell (e.g bash or cmd.exe if you use Windows) in that folder's directory: ``` $ xelatex resume.tex $ ``` and you'll have a neat pdf output of your resume in that same folder.
+Then, download this repository and run the following command from your preferred shell (e.g bash or cmd.exe if you use Windows) in that folder's directory: ``` $ xelatex resume.tex $ ``` and you will be rewarded with a neat pdf output of your resume in that same folder.
 
 
 ## Preview
