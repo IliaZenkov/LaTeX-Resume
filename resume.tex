@@ -1,0 +1,39 @@
+\documentclass[11pt, a4paper]{awesome-cv}
+%  \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\fontdir[fonts]
+\colorlet{awesome}{awesome-darknight}
+\usepackage{fontawesome}
+\usepackage{import}
+\usepackage{hyperref}
+
+\makeatletter
+\patchcmd{\@sectioncolor}{\color}{\mdseries\color}{}{}
+\makeatother
+\name{}{Ilia Zenkov}
+\email{ilzenkov@gmail.com}
+\github{iliazenkov}
+\linkedin{ilia-zenkov}
+\gitlab{test} %research
+%\resea{test}
+%-------------------------------------------------------------------------------
+\begin{document}
+\makecvheader
+\vspace{2mm}
+\input{resume/skills.tex}
+\vspace{1mm}
+\input{resume/experience.tex}
+\vspace{1.5mm}
+\input{resume/projects.tex}
+\vspace{2mm}
+\input{resume/education.tex}
+\vspace{4mm}
+\input{resume/interests.tex}
+
+
+%-------------------------------------------------------------------------------
+\end{document}
+
+
+
+%Change font
+%More
