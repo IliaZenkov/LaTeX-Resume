@@ -61,7 +61,7 @@ Finally, do check out all the wonderful icons provided by [Font Awesome](https:/
 
 ## Super Quick Start Guide ;)
 
-If you have trouble compiling my modified template with LaTeX, you can start by accessing the base template for awesome-cv and edit it with Overleaf, an online LaTeX editor. If you are running into compile errors, make sure you are using the XeTeX compiler available in the Overleaf settings.
+If you have trouble compiling this repository with LaTeX, you can start by accessing the base template for awesome-cv and edit it with Overleaf, an online LaTeX editor. If you are running into compile errors, make sure you are using the XeTeX compiler available in the Overleaf settings.
 
 * [**Edit Resume on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
 * [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
