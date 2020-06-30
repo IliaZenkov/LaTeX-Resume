@@ -17,7 +17,7 @@ I recommend downloading the latest distribution of TeX Live from [Tex Users Grou
 Then, download this repository and run the following command from your preferred shell (e.g cmd.exe) in that folder's directory: ``` $ xelatex resume.tex $ ```.
 
 
-# Preview:
+## Preview:
 
 | Resume | Cover Letter |
 |:---:|:---:|
