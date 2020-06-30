@@ -1,5 +1,12 @@
-# Resume [![Resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Resume.pdf) 
-# Cover Letter [![Cover Letter](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/IliaZenkov/LaTeX-Resume/blob/master/example/Cover%20Letter.pdf)
+<div align="center">
+ 
+  <a href="https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/Resume.pdf">
+    <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+   <a href="https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/Cover%20Letter.pdf">
+    <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
+  </a>
+</div>
+
 
 This is my resume - a heavily modified fork of [awesome-cv](https://github.com/posquit0/Awesome-CV). Please use this template for your own job-hunting needs as you see fit!
 
@@ -8,16 +15,12 @@ This is my resume - a heavily modified fork of [awesome-cv](https://github.com/p
 I recommend downloading the latest distribution of TeX Live from [Tex Users Group](https://www.tug.org/texlive/). 
 Then, download this repository and run the following command from your preferred shell (e.g cmd.exe) in that folder's directory: ``` $ xelatex resume.tex $ ```.
 
-Alternatively, you can upload this template or access the base template for this resume and edit it with Overleaf, an online LaTeX editor. If you are running into compile errors, make sure you are using the XeTeX compiler available in the Overleaf settings.
 
-* [**Edit Resume on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
-* [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
-
-Preview:
+# Preview:
 
 | Resume | Cover Letter |
 |:---:|:---:|
-| [![Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Cover Letter](https://github.com/IliaZenkov/LaTeX-Resume/raw/master/example/Cover%20Letter.pdf)
+| [![Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)]  | [![Cover Letter](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/cover%20letter.png)
 
 ## Quick Start Guide
 
@@ -53,6 +56,9 @@ Try the colors predefined by Font Awesome: `awesome`, `awesome-emerald`, `awesom
 
 Finally, do check out all the wonderful icons provided by [Font Awesome](https://fontawesome.com/) in ```fontawesome.sty``` in this repository.
 
+If you have trouble compiling my modified template with LaTeX, you can start by accessing the base template for awesome-cv and edit it with Overleaf, an online LaTeX editor. If you are running into compile errors, make sure you are using the XeTeX compiler available in the Overleaf settings.
 
+* [**Edit Resume on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
+* [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
 
-
+Cheers and happy job hunting!
