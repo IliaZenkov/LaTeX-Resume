@@ -51,9 +51,7 @@ Add custom sections using the ```\cvsection``` command:
 
 As another example, you can easily change emphasis colours. Replace the color in the following entry near line 197 of ```awesome-cv.cls```:
 ```
-\newcommand*{\sectionstyle}
-
-1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{blue}\@sectioncolor #1}} 
+\newcommand*{\sectionstyle}[1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{blue}\@sectioncolor #1}} 
 ```
 Try the colors predefined by Font Awesome: `awesome`, `awesome-emerald`, `awesome-skyblue`, `awesome-red`, `awesome-pink`, `awesome-orange`, `awesome-nephritis`, `awesome-concrete`, `awesome-darknight`. Find more colors in the color config around line 100. Use your own additional colors by defining HTML color codes in ```awesome-cv.cls``` using ```\definecolor```. 
 
