@@ -53,7 +53,7 @@ As another example, you can easily change emphasis colours. Replace the color in
 ```
 \newcommand*{\sectionstyle}[1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{blue}\@sectioncolor #1}} 
 ```
-Try the colors predefined by Font Awesome: `awesome`, `awesome-emerald`, `awesome-skyblue`, `awesome-red`, `awesome-pink`, `awesome-orange`, `awesome-nephritis`, `awesome-concrete`, `awesome-darknight`. Find more colors in the color config around line 100. Use your own additional colors by defining HTML color codes in ```awesome-cv.cls``` using ```\definecolor```. 
+Try the colors predefined by Font Awesome: `awesome`, `awesome-emerald`, `awesome-skyblue`, `awesome-red`, `awesome-pink`, `awesome-orange`, `awesome-nephritis`, `awesome-concrete`, and `awesome-darknight`. Find more colors in the color config around line 100. Use your own additional colors by defining HTML color codes in ```awesome-cv.cls``` using ```\definecolor```. 
 
 Finally, do check out all the wonderful icons provided by [Font Awesome](https://fontawesome.com/) in ```fontawesome.sty``` in this repository.
 
