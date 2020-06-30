@@ -21,7 +21,7 @@ Then, download this repository and run the following command from your preferred
 
 | Resume | Cover Letter |
 |:---:|:---:|
-| [![Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)]  | [![Cover Letter](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/cover%20letter.png)
+| [!Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)]  | [!Cover Letter](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/cover%20letter.png)
 
 ## Quick Start Guide
 
@@ -51,11 +51,15 @@ Add custom sections using the ```\cvsection``` command:
 
 As another example, you can easily change emphasis colours. Replace the color in the following entry near line 197 of ```awesome-cv.cls```:
 ```
-\newcommand*{\sectionstyle}[1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{blue}\@sectioncolor #1}} 
+\newcommand*{\sectionstyle}
+
+1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{blue}\@sectioncolor #1}} 
 ```
 Try the colors predefined by Font Awesome: `awesome`, `awesome-emerald`, `awesome-skyblue`, `awesome-red`, `awesome-pink`, `awesome-orange`, `awesome-nephritis`, `awesome-concrete`, `awesome-darknight`. Find more colors in the color config around line 100. Use your own additional colors by defining HTML color codes in ```awesome-cv.cls``` using ```\definecolor```. 
 
 Finally, do check out all the wonderful icons provided by [Font Awesome](https://fontawesome.com/) in ```fontawesome.sty``` in this repository.
+
+## Super Quick Start Guide ;)
 
 If you have trouble compiling my modified template with LaTeX, you can start by accessing the base template for awesome-cv and edit it with Overleaf, an online LaTeX editor. If you are running into compile errors, make sure you are using the XeTeX compiler available in the Overleaf settings.
 
