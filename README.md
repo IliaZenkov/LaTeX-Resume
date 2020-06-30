@@ -21,7 +21,7 @@ Then, download this repository and run the following command from your preferred
 
 | Resume | Cover Letter |
 |:---:|:---:|
-| [!Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)]  | [!Cover Letter](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/cover%20letter.png)
+| ![Resume](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/resume.png)]  | ![Cover Letter](https://raw.githubusercontent.com/IliaZenkov/LaTeX-Resume/master/example/cover%20letter.png)
 
 ## Quick Start Guide
 
